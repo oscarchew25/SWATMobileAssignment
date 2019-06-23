@@ -1,0 +1,12 @@
+[
+  {
+   "Organisation":"coreos",
+   "Repository":"hyperkube",
+   "Tag":"v1.9.6_coreos.2"
+  },
+  {
+   "Organisation":"coreos",
+   "Repository":"hyperkube",
+   "Tag":"v1.8.9_coreos.2"
+  }
+]
